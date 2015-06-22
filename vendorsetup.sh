@@ -1,0 +1,3 @@
+add_lunch_combo cm_lentislte-userdebug
+add_lunch_combo cm_lentislte-user
+add_lunch_combo cm_lentislte-eng
